@@ -1,5 +1,5 @@
 # Dal&iacute; 2.5D
-### Bewegungsparallaxe
+### Bewegungsparallaxe in der Webprogrammierung
 
 Roland Bruggmann, 2012
 <hr>
