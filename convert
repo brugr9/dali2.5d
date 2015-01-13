@@ -1,0 +1,1 @@
+for i in persistencia_*.png; do convert -scale 70% -quality 85 $i ${i%.png}.png; done
