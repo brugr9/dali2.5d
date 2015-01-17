@@ -14,7 +14,7 @@ Salvador Dal&iacute;s 'La persistencia de la memoria' als Bewegungsparallaxe.
 - Programmiersprachen PHP, JavaScript
 
 ##### Bibliothek
-- [jParallax](https://github.com/stephband/jparallax), jQuery-Bibliothek von Stephen Band.
+- <a target="_blank" href="https://github.com/stephband/jparallax">jParallax</a>, jQuery-Bibliothek von Stephen Band.
 
 ##### Online
 - <a target="_blank" href="http://about.geogeek.ch/parallax/persistencia.html">Dal&iacute; 2.5D</a>
