@@ -1,6 +1,8 @@
 # Dal&iacute; 2.5D
 ### Bewegungsparallaxe in der Webprogrammierung
 
+![Persistencia tree](images/persistencia_baum.png "Persistencia tree")
+
 Roland Bruggmann, 2012
 <hr>
 ##### Beschreibung
