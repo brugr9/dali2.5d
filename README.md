@@ -1,13 +1,7 @@
 # Dal&iacute; 2.5D
 ### Bewegungsparallaxe in der Webprogrammierung
 
-/home/vname/Development/Repositories/dali2.5d/images
-
-<img 
-    style="width: 200px; height: 150px;" 
-    src="http://img1.jurko.net/wall/paper/donald_duck_4.jpg">
-
-![Persistencia tree](images/persistencia_baum.png "Persistencia tree")
+<img  style="width: 50%; height: 50%;" src="images/persistencia_baum.png">
 
 Roland Bruggmann, 2012
 <hr>
