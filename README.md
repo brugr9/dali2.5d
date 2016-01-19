@@ -18,7 +18,4 @@ Salvador Dal&iacute;s 'La persistencia de la memoria' als Bewegungsparallaxe.
 ##### Bibliothek
 - <a target="_blank" href="https://github.com/stephband/jparallax">jParallax</a>, jQuery-Bibliothek von Stephen Band.
 
-##### Online
-- <a target="_blank" href="http://about.geogeek.ch/parallax/persistencia.html">Dal&iacute; 2.5D</a>
-
 Bild: © 2005 Salvador Dalí, Gala-Salvador Dalí Foundation/Artists Rights Society (ARS), New York.
