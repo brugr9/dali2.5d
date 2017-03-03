@@ -8,6 +8,7 @@ Roland Bruggmann, 2012
 ##### Beschreibung
 Salvador Dal&iacute;s 'La persistencia de la memoria' als Bewegungsparallaxe.
 - <a target="_blank" href="https://youtu.be/Vm-TyU2OPn4">Screencast auf Youtube</a>.
+
 <hr>
 ##### Stichworte
 - Bewegungsparallaxe, 2.5D
