@@ -3,8 +3,8 @@ Salvador Dal&iacute;s 'La persistencia de la memoria' als Bewegungsparallaxe in 
 
 - Stichworte: Bewegungsparallaxe, 2.5D, Salvador Dal&iacute
 - Technologie: HTML, CSS, JavaScript, jQuery, PHP, Bildbearbeitung mit GIMP
-- [Demo](https://codepen.io/brugr9/full/QZObWe/)
-- [Screencast](https://youtu.be/Vm-TyU2OPn4)
+- [Demo](https://codepen.io/brugr9/pen/QZObWe) (codepen.io)
+- [Screencast](https://youtu.be/Vm-TyU2OPn4) (youtube.com)
 
 ![Persistencia tree](images/persistencia_baum.png "Persistencia tree")
 
